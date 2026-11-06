@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/dmit-code/coli-linux"><img alt="COLI Linux repository" src="https://img.shields.io/badge/COLI_Linux-Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"></a>
   <a href="https://github.com/dmit-code"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"></a>
   <a href="https://t.me/d_m_1_t"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@d__m__1__t-1F6FEB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111827"></a>
   <a href="https://www.figma.com/design/3RTX9YHtgQSKC4cS5sHt1v/COLI-Linux"><img alt="COLI Linux design" src="https://img.shields.io/badge/COLI_Linux-Design-111827?style=for-the-badge&logo=figma&logoColor=1F6FEB"></a>
