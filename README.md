@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dmit-code/me"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Профиль-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"></a>
+  <a href="https://github.com/dmit-code"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Профиль-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"></a>
   <a href="https://www.figma.com/design/3RTX9YHtgQSKC4cS5sHt1v/COLI-Linux"><img alt="Дизайн COLI Linux" src="https://img.shields.io/badge/COLI_Linux-Дизайн-111827?style=for-the-badge&logo=figma&logoColor=1F6FEB"></a>
 </p>
 
